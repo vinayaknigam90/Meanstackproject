@@ -1,0 +1,26 @@
+{
+  "name": "meanstackproject",
+  "version": "1.0.0",
+  "description": "This repo consist of mean stack app with angular2",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinayaknigam90/Meanstackproject.git"
+  },
+  "keywords": [
+    "MEANSTACKANGULAR2"
+  ],
+  "author": "VinayakNigam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinayaknigam90/Meanstackproject/issues"
+  },
+  "homepage": "https://github.com/vinayaknigam90/Meanstackproject#readme",
+  "dependencies": {
+    "express": "^4.15.4",
+    "mongoose": "^4.11.11"
+  }
+}
